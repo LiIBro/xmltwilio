@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">oi oi oi oi oi oi opi ola oi oi oi ola ola ola</Say>
+  <Say voice="alice" language="pt-BR">
+    Olá, esta é uma ligação de teste. Sem interação, apenas voz em português.
+  </Say>
 </Response>
