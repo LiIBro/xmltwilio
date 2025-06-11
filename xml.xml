@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice" language="pt-BR">
-    Olá, esta é uma ligação de teste. Sem interação, apenas voz em português.
+    Olá, esta é uma ligação de teste em português. Sem interação.
   </Say>
 </Response>
